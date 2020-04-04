@@ -1,0 +1,22 @@
+/home/ararat/Projects/RiderProjects/Laba2/Laba2/bin/Debug/netcoreapp3.1/Laba2
+/home/ararat/Projects/RiderProjects/Laba2/Laba2/bin/Debug/netcoreapp3.1/Laba2.deps.json
+/home/ararat/Projects/RiderProjects/Laba2/Laba2/bin/Debug/netcoreapp3.1/Laba2.runtimeconfig.json
+/home/ararat/Projects/RiderProjects/Laba2/Laba2/bin/Debug/netcoreapp3.1/Laba2.runtimeconfig.dev.json
+/home/ararat/Projects/RiderProjects/Laba2/Laba2/bin/Debug/netcoreapp3.1/Laba2.dll
+/home/ararat/Projects/RiderProjects/Laba2/Laba2/bin/Debug/netcoreapp3.1/Laba2.pdb
+/home/ararat/Projects/RiderProjects/Laba2/Laba2/obj/Debug/netcoreapp3.1/Laba2.csprojAssemblyReference.cache
+/home/ararat/Projects/RiderProjects/Laba2/Laba2/obj/Debug/netcoreapp3.1/Laba2.AssemblyInfoInputs.cache
+/home/ararat/Projects/RiderProjects/Laba2/Laba2/obj/Debug/netcoreapp3.1/Laba2.AssemblyInfo.cs
+/home/ararat/Projects/RiderProjects/Laba2/Laba2/obj/Debug/netcoreapp3.1/Laba2.dll
+/home/ararat/Projects/RiderProjects/Laba2/Laba2/obj/Debug/netcoreapp3.1/Laba2.pdb
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.exe
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.deps.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.runtimeconfig.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.runtimeconfig.dev.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.dll
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Laba2\Laba2\bin\Debug\netcoreapp3.1\Laba2.pdb
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.csprojAssemblyReference.cache
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.AssemblyInfoInputs.cache
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.AssemblyInfo.cs
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.dll
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Laba2\Laba2\obj\Debug\netcoreapp3.1\Laba2.pdb

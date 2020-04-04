@@ -1,0 +1,11 @@
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab4-6-2\Lab4-6-2\bin\Debug\netcoreapp3.1\Lab4-6-2.exe
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab4-6-2\Lab4-6-2\bin\Debug\netcoreapp3.1\Lab4-6-2.deps.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab4-6-2\Lab4-6-2\bin\Debug\netcoreapp3.1\Lab4-6-2.runtimeconfig.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab4-6-2\Lab4-6-2\bin\Debug\netcoreapp3.1\Lab4-6-2.runtimeconfig.dev.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab4-6-2\Lab4-6-2\bin\Debug\netcoreapp3.1\Lab4-6-2.dll
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab4-6-2\Lab4-6-2\bin\Debug\netcoreapp3.1\Lab4-6-2.pdb
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab4-6-2\Lab4-6-2\obj\Debug\netcoreapp3.1\Lab4-6-2.csprojAssemblyReference.cache
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab4-6-2\Lab4-6-2\obj\Debug\netcoreapp3.1\Lab4-6-2.AssemblyInfoInputs.cache
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab4-6-2\Lab4-6-2\obj\Debug\netcoreapp3.1\Lab4-6-2.AssemblyInfo.cs
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab4-6-2\Lab4-6-2\obj\Debug\netcoreapp3.1\Lab4-6-2.dll
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab4-6-2\Lab4-6-2\obj\Debug\netcoreapp3.1\Lab4-6-2.pdb

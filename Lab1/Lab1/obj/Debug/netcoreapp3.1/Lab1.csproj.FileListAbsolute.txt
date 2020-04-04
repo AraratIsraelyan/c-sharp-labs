@@ -1,0 +1,22 @@
+/home/ararat/Projects/RiderProjects/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1
+/home/ararat/Projects/RiderProjects/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.deps.json
+/home/ararat/Projects/RiderProjects/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.json
+/home/ararat/Projects/RiderProjects/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.dev.json
+/home/ararat/Projects/RiderProjects/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.dll
+/home/ararat/Projects/RiderProjects/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.pdb
+/home/ararat/Projects/RiderProjects/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.csprojAssemblyReference.cache
+/home/ararat/Projects/RiderProjects/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfoInputs.cache
+/home/ararat/Projects/RiderProjects/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfo.cs
+/home/ararat/Projects/RiderProjects/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.dll
+/home/ararat/Projects/RiderProjects/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.pdb
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csprojAssemblyReference.cache
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb

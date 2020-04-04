@@ -1,0 +1,22 @@
+/home/ararat/Projects/RiderProjects/lab3/lab3/bin/Debug/netcoreapp3.1/lab3
+/home/ararat/Projects/RiderProjects/lab3/lab3/bin/Debug/netcoreapp3.1/lab3.deps.json
+/home/ararat/Projects/RiderProjects/lab3/lab3/bin/Debug/netcoreapp3.1/lab3.runtimeconfig.json
+/home/ararat/Projects/RiderProjects/lab3/lab3/bin/Debug/netcoreapp3.1/lab3.runtimeconfig.dev.json
+/home/ararat/Projects/RiderProjects/lab3/lab3/bin/Debug/netcoreapp3.1/lab3.dll
+/home/ararat/Projects/RiderProjects/lab3/lab3/bin/Debug/netcoreapp3.1/lab3.pdb
+/home/ararat/Projects/RiderProjects/lab3/lab3/obj/Debug/netcoreapp3.1/lab3.csprojAssemblyReference.cache
+/home/ararat/Projects/RiderProjects/lab3/lab3/obj/Debug/netcoreapp3.1/lab3.AssemblyInfoInputs.cache
+/home/ararat/Projects/RiderProjects/lab3/lab3/obj/Debug/netcoreapp3.1/lab3.AssemblyInfo.cs
+/home/ararat/Projects/RiderProjects/lab3/lab3/obj/Debug/netcoreapp3.1/lab3.dll
+/home/ararat/Projects/RiderProjects/lab3/lab3/obj/Debug/netcoreapp3.1/lab3.pdb
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.exe
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.deps.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.dev.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.dll
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.pdb
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csprojAssemblyReference.cache
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfoInputs.cache
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfo.cs
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.dll
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.pdb
