@@ -1,0 +1,11 @@
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.exe
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.deps.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.runtimeconfig.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.runtimeconfig.dev.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.dll
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab5\Lab5\bin\Debug\netcoreapp3.1\Lab5.pdb
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.csprojAssemblyReference.cache
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.AssemblyInfoInputs.cache
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.AssemblyInfo.cs
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.dll
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab5\Lab5\obj\Debug\netcoreapp3.1\Lab5.pdb
