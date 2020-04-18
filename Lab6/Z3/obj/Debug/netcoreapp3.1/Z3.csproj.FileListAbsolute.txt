@@ -1,0 +1,11 @@
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab6\Z3\bin\Debug\netcoreapp3.1\Z3.exe
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab6\Z3\bin\Debug\netcoreapp3.1\Z3.deps.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab6\Z3\bin\Debug\netcoreapp3.1\Z3.runtimeconfig.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab6\Z3\bin\Debug\netcoreapp3.1\Z3.runtimeconfig.dev.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab6\Z3\bin\Debug\netcoreapp3.1\Z3.dll
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab6\Z3\bin\Debug\netcoreapp3.1\Z3.pdb
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab6\Z3\obj\Debug\netcoreapp3.1\Z3.csprojAssemblyReference.cache
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab6\Z3\obj\Debug\netcoreapp3.1\Z3.AssemblyInfoInputs.cache
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab6\Z3\obj\Debug\netcoreapp3.1\Z3.AssemblyInfo.cs
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab6\Z3\obj\Debug\netcoreapp3.1\Z3.dll
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab6\Z3\obj\Debug\netcoreapp3.1\Z3.pdb
