@@ -1,0 +1,11 @@
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\SortString\bin\Debug\netcoreapp3.1\SortString.exe
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\SortString\bin\Debug\netcoreapp3.1\SortString.deps.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\SortString\bin\Debug\netcoreapp3.1\SortString.runtimeconfig.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\SortString\bin\Debug\netcoreapp3.1\SortString.runtimeconfig.dev.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\SortString\bin\Debug\netcoreapp3.1\SortString.dll
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\SortString\bin\Debug\netcoreapp3.1\SortString.pdb
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\SortString\obj\Debug\netcoreapp3.1\SortString.csprojAssemblyReference.cache
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\SortString\obj\Debug\netcoreapp3.1\SortString.AssemblyInfoInputs.cache
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\SortString\obj\Debug\netcoreapp3.1\SortString.AssemblyInfo.cs
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\SortString\obj\Debug\netcoreapp3.1\SortString.dll
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\SortString\obj\Debug\netcoreapp3.1\SortString.pdb

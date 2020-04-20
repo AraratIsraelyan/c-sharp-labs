@@ -1,0 +1,11 @@
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\List-Value-Types\obj\Debug\netcoreapp3.1\List-Value-Types.csprojAssemblyReference.cache
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\List-Value-Types\obj\Debug\netcoreapp3.1\List-Value-Types.AssemblyInfoInputs.cache
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\List-Value-Types\obj\Debug\netcoreapp3.1\List-Value-Types.AssemblyInfo.cs
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\List-Value-Types\bin\Debug\netcoreapp3.1\List-Value-Types.exe
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\List-Value-Types\bin\Debug\netcoreapp3.1\List-Value-Types.deps.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\List-Value-Types\bin\Debug\netcoreapp3.1\List-Value-Types.runtimeconfig.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\List-Value-Types\bin\Debug\netcoreapp3.1\List-Value-Types.runtimeconfig.dev.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\List-Value-Types\bin\Debug\netcoreapp3.1\List-Value-Types.dll
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\List-Value-Types\bin\Debug\netcoreapp3.1\List-Value-Types.pdb
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\List-Value-Types\obj\Debug\netcoreapp3.1\List-Value-Types.dll
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\List-Value-Types\obj\Debug\netcoreapp3.1\List-Value-Types.pdb

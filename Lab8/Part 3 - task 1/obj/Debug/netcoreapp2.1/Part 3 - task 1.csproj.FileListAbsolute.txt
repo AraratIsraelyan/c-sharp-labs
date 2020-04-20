@@ -1,0 +1,10 @@
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\Part 3 - task 1\bin\Debug\netcoreapp2.1\Part 3 - task 1.deps.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\Part 3 - task 1\bin\Debug\netcoreapp2.1\Part 3 - task 1.runtimeconfig.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\Part 3 - task 1\bin\Debug\netcoreapp2.1\Part 3 - task 1.runtimeconfig.dev.json
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\Part 3 - task 1\bin\Debug\netcoreapp2.1\Part 3 - task 1.dll
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\Part 3 - task 1\bin\Debug\netcoreapp2.1\Part 3 - task 1.pdb
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\Part 3 - task 1\obj\Debug\netcoreapp2.1\Part 3 - task 1.csprojAssemblyReference.cache
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\Part 3 - task 1\obj\Debug\netcoreapp2.1\Part 3 - task 1.AssemblyInfoInputs.cache
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\Part 3 - task 1\obj\Debug\netcoreapp2.1\Part 3 - task 1.AssemblyInfo.cs
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\Part 3 - task 1\obj\Debug\netcoreapp2.1\Part 3 - task 1.dll
+C:\Files\MegaSync\6 semestr\C#\RiderProjects\Lab8\Part 3 - task 1\obj\Debug\netcoreapp2.1\Part 3 - task 1.pdb
