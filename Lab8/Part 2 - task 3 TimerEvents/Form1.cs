@@ -25,7 +25,10 @@ namespace Part_2___task_3_TimerEvents
            
             label1.Text = count.ToString();
             count += 1;
-
+            
+            progressBar1.Value += 1;
+            if (progressBar1.Value >= 10) t.Stop();
+            
             if (count >= 10)
             {
                 t.Stop();
@@ -39,11 +42,17 @@ namespace Part_2___task_3_TimerEvents
             t.Interval = 1000;
             t.Tick +=new EventHandler(timer_Tick);
             t.Start();
+            progressBar1.Maximum = 10;
             //throw new System.NotImplementedException();
         }
 
 
         private void label1_Click(object sender, EventArgs e)
+        {
+            throw new System.NotImplementedException();
+        }
+
+        private void progressBar1_Click(object sender, EventArgs e)
         {
             throw new System.NotImplementedException();
         }

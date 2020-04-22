@@ -4,8 +4,6 @@ namespace List_Value_Types
 {
     class Program
     {
-        
-        
         static void Main(string[] args)
         {
             SByte sb = 127;

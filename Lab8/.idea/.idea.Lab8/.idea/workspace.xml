@@ -11,11 +11,12 @@
     <setting file="file://$PROJECT_DIR$/List-Value-Types/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Part 2 - task 3 TimerEvents/Form1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Part 2 - task 3 TimerEvents/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Part 2 - task 3/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Part 2 - task 4/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Part 2 -task 3TimerEvents/Form1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Part 2 - task 3/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Lab8/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Part 2 - task 2/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Part 2 - task 3 TimerEvents/Form1.resx" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Part 2- task 1/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SortString/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Part 2 - task 3 TimerEvents/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -24,16 +25,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lab8/Program.cs" />
-        <option value="$PROJECT_DIR$/List-Value-Types/Program.cs" />
         <option value="$PROJECT_DIR$/SortString/Program.cs" />
-        <option value="$PROJECT_DIR$/Part 2- task 1/Program.cs" />
-        <option value="$PROJECT_DIR$/Part 2 - task 2/Program.cs" />
         <option value="$PROJECT_DIR$/Part 2 - task 3/Program.cs" />
         <option value="$PROJECT_DIR$/Part 2 -task 3TimerEvents/Form1.cs" />
-        <option value="$PROJECT_DIR$/Part 2 - task 3 TimerEvents/Form1.cs" />
         <option value="$PROJECT_DIR$/Part 2 - task 4/Program.cs" />
         <option value="$PROJECT_DIR$/Part 3 - task 1/Program.cs" />
+        <option value="$PROJECT_DIR$/Part 2- task 1/Program.cs" />
+        <option value="$PROJECT_DIR$/Part 2 - task 3 TimerEvents/Form1.cs" />
+        <option value="$PROJECT_DIR$/Lab8/Program.cs" />
+        <option value="$PROJECT_DIR$/List-Value-Types/Program.cs" />
+        <option value="$PROJECT_DIR$/Part 2 - task 2/Program.cs" />
       </list>
     </option>
   </component>
@@ -218,6 +219,9 @@
       <workItem from="1587309629051" duration="2533000" />
       <workItem from="1587328483699" duration="3271000" />
       <workItem from="1587364034558" duration="4868000" />
+      <workItem from="1587401109735" duration="7372000" />
+      <workItem from="1587552857571" duration="2043000" />
+      <workItem from="1587558140661" duration="175000" />
     </task>
     <servers />
   </component>
@@ -235,22 +239,22 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="0" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1587366564717" />
-    <state width="1877" height="283" key="GridCell.Tab.0.bottom" timestamp="1587370301246">
+    <state width="1877" height="480" key="GridCell.Tab.0.bottom" timestamp="1587554901670">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="283" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1587370301246" />
-    <state width="1877" height="283" key="GridCell.Tab.0.center" timestamp="1587370301246">
+    <state width="1877" height="480" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1587554901670" />
+    <state width="1877" height="480" key="GridCell.Tab.0.center" timestamp="1587554901670">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="283" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1587370301246" />
-    <state width="1877" height="283" key="GridCell.Tab.0.left" timestamp="1587370301246">
+    <state width="1877" height="480" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1587554901670" />
+    <state width="1877" height="480" key="GridCell.Tab.0.left" timestamp="1587554901670">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="283" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1587370301246" />
-    <state width="1877" height="283" key="GridCell.Tab.0.right" timestamp="1587370301246">
+    <state width="1877" height="480" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1587554901670" />
+    <state width="1877" height="480" key="GridCell.Tab.0.right" timestamp="1587554901670">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="283" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1587370301246" />
+    <state width="1877" height="480" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1587554901670" />
     <state width="982" height="354" key="GridCell.Tab.1.bottom" timestamp="1587331969388">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
@@ -319,13 +323,13 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="111" y="290" key="Rider.ProjectTemplateDialog.Size/0.30.1920.1050@0.30.1920.1050" timestamp="1587366544589" />
-    <state x="391" y="258" key="RiderGenerateDialog" timestamp="1587309639504">
+    <state x="391" y="258" key="RiderGenerateDialog" timestamp="1587554386583">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="391" y="258" key="RiderGenerateDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1587309639504" />
-    <state x="739" y="421" key="ToolboxManager" timestamp="1587311077632">
+    <state x="391" y="258" key="RiderGenerateDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1587554386583" />
+    <state x="739" y="421" key="ToolboxManager" timestamp="1587406175633">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="739" y="421" key="ToolboxManager/0.30.1920.1050@0.30.1920.1050" timestamp="1587311077632" />
+    <state x="739" y="421" key="ToolboxManager/0.30.1920.1050@0.30.1920.1050" timestamp="1587406175633" />
   </component>
 </project>
